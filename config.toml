@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title   = "Christopher Baita"
-languageCode = "en-au"
+languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -61,8 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Cyber Security Consultant | Software Developer"
-  #"Welcome friend! Please stay a while"
+  homeSubtitle = "Cyber Security Consultant | Software Developer" #"Welcome friend! Please stay a while"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -95,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -118,7 +117,8 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "<a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
     ]
 
   # Colors for favicons

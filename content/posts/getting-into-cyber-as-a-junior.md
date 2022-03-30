@@ -9,7 +9,7 @@ tags:
   - junior
 ---
 
-Recently I was fortunate enough to start a position as a junior security consultant with Galah Cyber. Galah is focused on Application Security which allows me to combine my passion for software engineering with my passion for cyber security, absolutely perfect!
+Recently I was fortunate enough to start a position as a junior security consultant with [Galah Cyber](https://www.galahcyber.com.au/). Galah is focused on Application Security which allows me to combine my passion for software engineering with my passion for cyber security, absolutely perfect!
 
 If you were like me you might have found your passion in cyber security too, but getting started was always a bit of a grey area. I always wondered where cyber could take me and what I could contribute.
 
@@ -34,7 +34,7 @@ Doing independent research definitely helped, things like looking at jobs, watch
 
 Going to meetups, joining online groups and just talking to people allowed me to truly learn what opportunities there are in cyber, especially locally, and the different areas I could pursue. 
 
-I went to the NSCG monthly meetups and learnt from all the talented individuals there who were kind enough to share their knowledge and are always willing to help out others. It was there I found out about app sec, the ability to combine my passion for programming with my passion for cyber was a dream come true.
+I went to the [Newcastle Cyber Security Group's](https://www.meetup.com/Newcastle-Cyber-Security-Group/) monthly meetups and learnt from all the talented individuals there who were kind enough to share their knowledge and are always willing to help out others. It was there I found out about app sec, the ability to combine my passion for programming with my passion for cyber was a dream come true.
 
 Knowing that I wanted to pursue that field was the next step forward, you feel much more confident knowing so.
 
@@ -45,15 +45,15 @@ I still love software development but oversights in development is where a lot o
 
 Learn from the plethora of information available to improve your code quality and security. 
 
-The OWASP is absolutely incredible for this purpose. They have clear information that developers can understand and put into practice.
+The [OWASP](https://owasp.org/) is absolutely incredible for this purpose. They have clear information that developers can understand and put into practice.
 
-Reading over the OWASP top 10 and taking the time to understand the vulnerabilities, will help you massively! Not only as a security professional but as a developer too.
+Reading over the [OWASP top 10](https://owasp.org/Top10/) and taking the time to understand the vulnerabilities, will help you massively! Not only as a security professional but as a developer too.
 
-The other thing that was incredibly useful were the OWASP cheat sheets, they provide clear concise information to developers on how to implement proper security controls.
+The other thing that was incredibly useful were the [OWASP cheat sheets](https://cheatsheetseries.owasp.org/), they provide clear concise information to developers on how to implement proper security controls.
 
-The cheat sheet for a forgotten password reset was an incredible resource, helping me to feel confident that the method put into practise was safe. 
+The cheat sheet for a [forgotten password reset](https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html) was an incredible resource, helping me to feel confident that the method put into practice was safe. 
 
-There are many other cheat sheets to help with a lot of common dev tasks such as password storage along with cheat sheets to help prevent vulnerabilities such as XSS. 
+There are many other cheat sheets to help with a lot of common dev tasks such as password storage along with cheat sheets to help prevent vulnerabilities such as [XSS](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html). 
 
 If you don't understand some of the concepts on the page then go down the rabbit hole and learn! You will be surprised just how much information you pick up. 
 
@@ -102,7 +102,7 @@ Here are the key takeaways I think are important:
 
 - Be proactive in your learning
     - Investigate things that interest you and go down the rabbit hole
-    - Read over the OWASP documentation
+    - Read over the [OWASP](https://owasp.org/) documentation
     - Read about cyber incidents and keep up to date
 - Network and meet people
     - Go to community events like meet ups
