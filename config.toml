@@ -61,7 +61,8 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Cyber Security Consultant | Software Developer"
+  #"Welcome friend! Please stay a while"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -117,8 +118,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
     ]
 
   # Colors for favicons
@@ -153,30 +153,30 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
-  #   path     = "/img/image.jpg"
+  #   path     = "img.jpeg"
   #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  #   maxWidth = "200px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  # [[params.social]]
+  #   name = "twitter"
+  #   url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+  # [[params.social]]
+  #   name = "email"
+  #   url  = "mailto:nobody@example.com"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+  # [[params.social]]
+  #   name = "github"
+  #   url  = "https://github.com/"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+  # [[params.social]]
+  #   name = "linkedin"
+  #   url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+  # [[params.social]]
+  #   name = "stackoverflow"
+  #   url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
@@ -189,6 +189,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  
   [[menu.main]]
     identifier = "about"
     name       = "About"

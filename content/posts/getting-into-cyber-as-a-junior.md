@@ -5,7 +5,8 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - cyber security
+  - junior
 ---
 
 Recently I was fortunate enough to start a position as a junior security consultant with Galah Cyber. Galah is focused on Application Security which allows me to combine my passion for software engineering with my passion for cyber security, absolutely perfect!
