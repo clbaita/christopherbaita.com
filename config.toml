@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://127.0.0.1:5500"
 title   = "Christopher Baita"
 languageCode = "en-us"
 theme = "hello-friend-ng"

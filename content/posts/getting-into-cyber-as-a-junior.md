@@ -1,7 +1,7 @@
 ---
 title: "Getting Into Cyber as a Junior"
 date: 2022-03-30T09:10:07+11:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
