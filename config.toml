@@ -1,4 +1,4 @@
-baseURL = "https://christopherbaita.com"
+baseURL = "https://www.christopherbaita.com"
 title   = "Christopher Baita"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -25,7 +25,7 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
