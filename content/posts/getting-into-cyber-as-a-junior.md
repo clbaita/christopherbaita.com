@@ -74,7 +74,7 @@ The knowledge it provided me allowed me to assess security from a different pers
 
 Some of the most valuable things I picked up from talking to other professionals especially in meetups. Most of those people who go to meetup are fantastic people who genuinely want to help you out and see others succeed. You can learn a lot from others, especially the things that aren't purely technical, that kind of knowledge is invaluable. 
 
-The other important thing to skill up is your wider knowledge of the tech world. A board knowledge set helps greatly when looking at security because it is such a large topic.  Not often will information go astray so don't be afraid to learn something even if it is not totally security focused. 
+The other important thing to skill up is your wider knowledge of the tech world. A broad knowledge set helps greatly when looking at security because it is such a large topic.  Not often will information go astray so don't be afraid to learn something even if it is not totally security focused. 
 
 Working a year as a software developer, both through my work integrated learning taught me valuable concepts for software development which helps when considering security. For an app sec related field I found knowledge of software engineering to be super useful.
 
